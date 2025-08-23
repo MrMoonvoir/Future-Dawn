@@ -3,3 +3,5 @@ Ingresar algun nombre (Ejemplo: Juan)
 Sexo (M/F)
 Iniciar juego
 empezar encuentros randoms en 60 pisos, excluyendo el piso 10, 30, 40, 60
+poner probabilidad de encuentro (monstruos, vendedores, tesoros)
+Pisos antes mencionados poner jefe de piso fijos
